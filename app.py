@@ -52,7 +52,7 @@ def calculate_monthly_gain(initial_investment, latest_cdi, cdi_usage_percentage,
 
 def main():
     # Example: Calculate the monthly gain using the latest CDI value
-    initial_investment = 150000.00  # let's say we invest R$ 30,000
+    initial_investment = 150000.00  # let's say we invest R$ 150000.00
     cdi_usage_percentage = 100.0  # Use the % of the CDI value
     months = 6
     
